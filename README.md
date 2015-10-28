@@ -22,4 +22,12 @@ Inside your ~/Documents/Arduino folder:
 * Put chipKIT-core into ~/Documents/Arduino/hardware
 * Put PWMAudio into ~/Documents/Arduino/libraries
 
+Now you can start the Arduino IDE.
+* Select the Fubarino Mini from the "tools" menu item
+
+Put the Fubarino Mini into programming mode:
+* press the PRG button and tap the RESET button
+*  The onboard LED will flash quickly and the bootloader is ready to load an Arduino sketch
+*  
+
 
