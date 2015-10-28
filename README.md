@@ -17,9 +17,9 @@ Then you'll need to locate wave files from the web. You can also create them fro
 Once you have you wave file you will need to convert it to a c header file.
 * https://github.com/ricklon/wav2c
 
+Getting started:
 Inside your ~/Documents/Arduino folder:
-Put chipKIT-core into ~/Documents/Arduino/hardware
-
-Put PWMAudio into ~/Documents/Arduino/libraries
+* Put chipKIT-core into ~/Documents/Arduino/hardware
+* Put PWMAudio into ~/Documents/Arduino/libraries
 
 
